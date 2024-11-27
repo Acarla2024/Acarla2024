@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acarla2024
-- 👀 I’m interested in estudar
+- 👀 I’m interested in estudar e fazer uma transição da carreira para área de tecnologia 
 - 🌱 I’m currently learning low code
 - 💞️ I’m looking to collaborate on resolução de problemas com auxílio da IA
 - 📫 acarla.job_2024@outlook.com 
