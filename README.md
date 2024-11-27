@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning low code
 - 💞️ I’m looking to collaborate on resolução de problemas com auxílio da IA
 - 📫 acarla.job_2024@outlook.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- ⚡ Fun fact: Participando do projeto CAIXA - IA Generativa com Microsoft Copilot da plataforma de estudos DIO.
 
 <!---
 Acarla2024/Acarla2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
