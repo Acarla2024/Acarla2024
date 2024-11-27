@@ -18,7 +18,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
  primeiro, pedi ao Copilot pra me ajudar a entender o projeto, pois algumas palavras me eram estranhas.
-  Depois, pedi uma imagem de flores para inspirar a criação do vestido, após, dei detalhes de como queria o vestido.
+  Depois, solicitei uma imagem de flores para inspirar a criação do vestido, após, dei detalhes de como queria o vestido.
 
 ## 🚀 Resultados  
 
